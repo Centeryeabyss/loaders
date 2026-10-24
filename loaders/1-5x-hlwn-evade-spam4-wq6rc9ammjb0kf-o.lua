@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/1-5x-hlwn-evade-spam4-wq6rc9ammjb0kf.lua"))()
