@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/pubg-2-0-spam3-uwnykpzjmaxh3m.lua"))()
