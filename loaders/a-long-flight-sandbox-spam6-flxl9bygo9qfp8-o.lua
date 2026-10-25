@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/a-long-flight-sandbox-spam6-flxl9bygo9qfp8.lua"))()
