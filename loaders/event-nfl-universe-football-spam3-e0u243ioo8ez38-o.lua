@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/event-nfl-universe-football-spam3-e0u243ioo8ez38.lua"))()
