@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/scooter-empire-spam5-ry0jezy6oa2pfz.lua"))()
