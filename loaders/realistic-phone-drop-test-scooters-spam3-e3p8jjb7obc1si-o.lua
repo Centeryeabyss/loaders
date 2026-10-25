@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/realistic-phone-drop-test-scooters-spam3-e3p8jjb7obc1si.lua"))()
