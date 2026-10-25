@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/every-click-1-age-spam3-qfjx9rnso67uc7.lua"))()
