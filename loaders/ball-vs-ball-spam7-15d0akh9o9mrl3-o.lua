@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/ball-vs-ball-spam7-15d0akh9o9mrl3.lua"))()
