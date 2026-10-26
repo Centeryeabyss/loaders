@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Centeryeabyss/loaders/main/loaders/update-toilet-world-roleplay-2-spam7-20djcq8yomi5nh.lua"))()
